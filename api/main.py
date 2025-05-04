@@ -9,7 +9,7 @@ from fastapi import FastAPI, UploadFile, File,Form, HTTPException, Depends, Requ
 from pydantic import BaseModel
 from db import engine
 from model import Base
-from crud import save_fan, get_all_fans, get_fan_by_cpf, salvar_dados_twitter, salvar_dados_twitch, get_data_by_id
+from crud import save_fan, get_fan_by_cpf, salvar_dados_twitter, salvar_dados_twitch, get_data_by_id
 import os
 from typing import List
 from fastapi.middleware.cors import CORSMiddleware
