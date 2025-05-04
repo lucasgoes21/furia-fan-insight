@@ -1,5 +1,6 @@
 .env
+fans.db
 /uploads
-__pycache__/
+/__pycache__
 *.pyc
-fans.db/
+fans.db
