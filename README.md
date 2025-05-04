@@ -100,6 +100,25 @@ furia-fan-insight/
 │   └── package.json
 └── README.md
 ```
+## 🔧 Arquivo ./api/.env
+```bash
+  voce vai precisar configurar as APIs (twitter, twitch)
+
+  GEMINI_API_KEY=""
+  TWITTER_BEARER=""
+  TWITCH_CLIENT_ID=""
+  TWITCH_ACCESS_TOKEN=""
+  SEU_CLIENT_SECRET=""
+  REDIRECT_URI=
+
+  CLIENT_ID_X=""
+  CLIENT_SECRET_X=""
+  REDIRECT_URI_X=
+```
+## 🌐 Acesso ao Projeto
+
+Você pode acessar a aplicação hospedada neste link:
+🔗 [https://furia-fan-insight-on.vercel.app/](https://furia-fan-insight-on.vercel.app/)
 
 ## 🤝 Contribuições
 
