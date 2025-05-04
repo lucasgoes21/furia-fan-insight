@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 20px;
+}
