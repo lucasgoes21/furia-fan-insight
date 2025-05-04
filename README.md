@@ -118,7 +118,7 @@ furia-fan-insight/
 ## 🌐 Acesso ao Projeto
 
 Você pode acessar a aplicação hospedada neste link:
-🔗 [https://furia-fan-insight-on.vercel.app/](https://furia-fan-insight-on.vercel.app/)
+🔗 [https://furia-fan-insight-on.vercel.app/](https://furia-fan-insight-on.vercel.app/) (API do twitter nao ta funcionando no site, eu Atingi o maximo de requisiçoes gratuitas mensais)
 
 ## 🤝 Contribuições
 
